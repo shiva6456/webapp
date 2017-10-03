@@ -26,6 +26,7 @@ import javax.annotation.Resource;
 
 
 import org.mitre.openid.connect.client.OIDCAuthenticationFilter;
+
 import org.mitre.openid.connect.client.SubjectIssuerGrantedAuthority;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
